@@ -19,7 +19,7 @@ var SERVER = {
     TOKEN_EXPIRATION_IN_MINUTES: 600,
     COUNTRY_CODE : '+91',
     DOMAIN_NAME : 'http://localhost:8000/',
-    SUPPORT_EMAIL : 'support@onebcg.com'
+    SUPPORT_EMAIL : 'support@amitrana.com'
 };
 
 var DATABASE = {
